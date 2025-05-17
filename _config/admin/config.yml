@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: dein-nutzername/dein-repo-name
+  repo: renaissanceman/renaissancemantours
   branch: main # oder master
 
 media_folder: "static/images/uploads"
