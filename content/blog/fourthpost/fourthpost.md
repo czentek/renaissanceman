@@ -1,16 +1,15 @@
 ---
-title: This is my fourth post
-description: This is a post on My Blog about touchpoints and circling wagons.
-date: 2018-09-30
-tags: second tag
+title: Secrets of Berlin: The Age of Enlightenment
+description: This is my first walking tour in Berlin.
+date: 2025-05-17
+tags: walking tour, enlightenment, secrets of Berlin
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+The focus of this city walk is not on the usual historical depictions of supposedly well-known eras. It is on the mysterious, the hidden and the unfinished. The perspective is global.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+We take a journey into the 17th & 18th centuries. At that time, Berlin was the residence of the Electors of Brandenburg, who were allowed to call themselves "Kings in Prussia" from 1701 onwards. In this city we meet adventurers, alchemists, necromancers, impostors, a queen of the muses and a king of philosophers. We also get to know famous, infamous and above all influential societies of that age, which was rarely as "enlightened" as we would like to believe.  You can find more information below under "Highlights".
 
-<img src="./possum.png" alt="A possum parent and two possum kids hanging from the iconic red balloon">
+Starting with the magnificent buildings on the Gendarmenmarkt and around the Forum Fridericianum (today: Bebelplatz), I will convey to you the zeitgeist of an era that is strangely foreign and familiar to us. The contemporary relevance of the Age of Enlightenment will come up again and again. Our walk ends with a view of Berlin's landmark, the Brandenburg Gate, because this too is a product of the Age of Enlightenment!
 
-## Section Header
+## Interested? Get in touch!
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
-
+You can write an E-Mail to ...
