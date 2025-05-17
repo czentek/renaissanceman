@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: renaissanceman/renaissancemantours
+  repo: czentek/renaissanceman
   branch: main # oder master
 
 media_folder: "static/images/uploads"
