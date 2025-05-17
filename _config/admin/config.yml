@@ -1,1 +1,19 @@
+backend:
+  name: github
+  repo: dein-nutzername/dein-repo-name
+  branch: main # oder master
 
+media_folder: "static/images/uploads"
+public_folder: "/images/uploads"
+
+collections:
+  - name: "home"
+    label: "Startseite"
+    files:
+      - label: "Startseite bearbeiten"
+        name: "index"
+        file: "content/index.md" # Pfad zur Startseite
+        fields:
+          - { label: "Titel", name: "title", widget: "string" }
+          - { label: "Intro Text", name: "intro", widget: "text" }
+          - { label: "Bild", name: "hero_image", widget: "image" }
