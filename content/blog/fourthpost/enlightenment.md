@@ -4,6 +4,7 @@ description: This is my first walking tour in Berlin.
 date: 2025-05-17
 tags: walking tour, enlightenment, secrets of Berlin
 ---
+
 The focus of this city walk is not on the usual historical depictions of supposedly well-known eras. It is on the mysterious, the hidden and the unfinished. The perspective is global.
 
 We take a journey into the 17th & 18th centuries. At that time, Berlin was the residence of the Electors of Brandenburg, who were allowed to call themselves "Kings in Prussia" from 1701 onwards. In this city we meet adventurers, alchemists, necromancers, impostors, a queen of the muses and a king of philosophers. We also get to know famous, infamous and above all influential societies of that age, which was rarely as "enlightened" as we would like to believe.  You can find more information below under "Highlights".
