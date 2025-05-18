@@ -1,5 +1,6 @@
 ---
-title: Secrets of Berlin - The Age of Enlightenment
+title: Secrets of Berlin
+The Age of Enlightenment
 description: This is my first walking tour in Berlin.
 date: 2025-05-17
 tags: walking tour, enlightenment, secrets of Berlin
