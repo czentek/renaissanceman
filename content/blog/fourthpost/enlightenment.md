@@ -18,4 +18,4 @@ Starting with the magnificent buildings on the Gendarmenmarkt and around the For
 
 Right now the city walk is bookable via 
 <a href="https://www.guruwalk.com/de/walks/59673-geheimnisse-von-berlin-das-zeitalter-der-aufklarung">GuruWalk</a> and 
-<a href="[url] (https://www.freetour.com/berlin/secrets-of-berlin-the-age-of-enlightenment)">Freetour</a>.
+<a href="https://www.freetour.com/berlin/secrets-of-berlin-the-age-of-enlightenment">Freetour</a>.
